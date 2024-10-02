@@ -10,6 +10,7 @@ Welcome to the **Chat with PDFs** repository! This project is a Python-based app
 - Easy-to-use interface built with Streamlit.
 
 ## How It Works
+![Chat with PDFs](https://github.com/asadsaves/chat-with-pdfs/blob/main/PDF-LangChain.jpg?raw=true)
 
 The application follows these steps to process user queries:
 
